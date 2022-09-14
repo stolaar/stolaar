@@ -7,4 +7,4 @@
 
 </a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/stolaar/stolaar)](https://github.com/stolaar)
+[//]: # Removing since its not working [![Visits Badge](https://badges.pufler.dev/visits/stolaar/stolaar)](https://github.com/stolaar)
